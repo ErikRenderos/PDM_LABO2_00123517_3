@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="btn_rojo">#FF0000</color>
+    <color name="btn_rojo2">#FA0000</color>
+    <color name="btn_rojo3">#C80000</color>
+    <color name="btn_rojo4">#960000</color>
+    <color name="btn_rojo5">#640000</color>
+    <color name="btn_rojo6">#320000</color>
+
+    <color name="btn_verde">#00FF00</color>
+    <color name="btn_verde2">#00C800</color>
+    <color name="btn_verde3">#009600</color>
+    <color name="btn_verde4">#006400</color>
+    <color name="btn_verde5">#003200</color>
+    <color name="btn_verde6">#000000</color>
+
+    <color name="btn_azul">#0000FF</color>
+    <color name="btn_azul2">#0000C8</color>
+    <color name="btn_azul3">#000096</color>
+    <color name="btn_azul4">#000064</color>
+    <color name="btn_azul5">#000032</color>
+    <color name="btn_azul6">#000000</color>
+</resources>
